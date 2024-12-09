@@ -6,7 +6,7 @@
 ⚡ kemister.fr
 
 #👽 👾 Projets en cours :
-- Un annuaire avec react native //
-- Un blog en PHP pour publier des articles sur mon portfolio //
+- Une application de gestion pour plantes vertes (PWA) //
+- Un jeu développé avec Electron en cours de publication sur Playstore  //
 - [...]
 
