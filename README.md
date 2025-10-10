@@ -6,7 +6,7 @@
 ⚡ kemister.fr
 
 #👽 👾 Projets en cours :
-- Une application de gestion pour plantes vertes (PWA) à l'aide d'Electron //
-- Un jeu développé avec Capacitor en cours de publication sur Playstore  //
+- Une application de gestion de liens pour Desktop, à l'aide d'Electron - à transformer en PWA //
+- Un jeu développé avec Capacitor //
 - [...]
 
